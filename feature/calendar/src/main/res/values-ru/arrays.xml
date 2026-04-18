@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_items">
+        <item>Не повторяется</item>
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Год</item>
+        <item>Другое</item>
+    </string-array>
+</resources>

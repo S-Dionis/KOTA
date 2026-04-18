@@ -1,0 +1,80 @@
+<resources>
+    <string name="calendar_action_now">Сейчас</string>
+    <string name="calendar_dropdown_arrow">▼</string>
+    <string name="calendar_clickable_icon">></string>
+    <string name="calendar_full_date">%1$d %2$s %3$d</string>
+
+    <string name="day_screen_tasks_title">Задачи на день</string>
+    <string name="day_task_completed">Выполнено</string>
+    <string name="day_task_scheduled">Запланировано</string>
+    <string name="day_screen_empty_tasks">На этот день задач нет</string>
+    <string name="day_screen_stub_title">Экран дня</string>
+
+    <string name="day_stub_task_check_calendar">Проверить задачи в календаре</string>
+    <string name="day_stub_task_project_call">Созвон по проекту</string>
+    <string name="day_stub_task_prepare_list">Подготовить список дел</string>
+    <string name="day_stub_task_reply_messages">Ответить на сообщения</string>
+    <string name="day_stub_task_buy_groceries">Купить продукты</string>
+    <string name="day_stub_task_evening_walk">Прогулка вечером</string>
+
+    <string name="day_preview_task_morning_review">Утренний обзор плана на день</string>
+    <string name="day_preview_task_project_status">Встреча по статусу проекта</string>
+    <string name="day_preview_task_buy_and_pickup">Купить продукты и забрать заказ</string>
+    <string name="day_preview_task_evening_walk">Вечерняя прогулка</string>
+
+    <string name="day_time_08_30">08:30</string>
+    <string name="day_time_09_00">09:00</string>
+    <string name="day_time_10_00">10:00</string>
+    <string name="day_time_11_00">11:00</string>
+    <string name="day_time_13_30">13:30</string>
+    <string name="day_time_18_00">18:00</string>
+    <string name="day_time_18_30">18:30</string>
+    <string name="day_time_20_00">20:00</string>
+    <string name="day_time_21_00">21:00</string>
+
+    <string name="entry_name_label">Название события</string>
+    <string name="entry_filter_event">Событие</string>
+    <string name="entry_filter_task">Задача</string>
+    <string name="entry_start_datetime_label">Дата и время начала</string>
+    <string name="entry_end_datetime_label">Дата и время окончания</string>
+    <string name="entry_save_button">Сохранить событие</string>
+    <string name="entry_calendar_icon">📅</string>
+    <string name="entry_dialog_confirm">Сохранить</string>
+    <string name="entry_dialog_cancel">Отмена</string>
+    <string name="entry_dialog_close">Закрыть</string>
+    <string name="entry_select_time_title">Выберите время</string>
+    <string name="entry_remind_label">Уведомить за</string>
+    <string name="entry_remind_dialog_title">Уведомление</string>
+    <string name="entry_remind_none">Не уведомлять</string>
+    <string name="entry_remind_before_event">Перед событием</string>
+    <string name="entry_remind_one_hour">За час до события</string>
+    <string name="entry_remind_one_day">За день до события</string>
+    <string name="entry_remind_custom">Другое</string>
+    <string name="entry_repeat_label">Повторение</string>
+    <string name="entry_repeat_dialog_title">Повторение</string>
+    <string name="entry_repeat_never">Не повторяется</string>
+    <string name="entry_repeat_every_day">день</string>
+    <string name="entry_repeat_every_week">неделю</string>
+    <string name="entry_repeat_every_month">месяц</string>
+    <string name="entry_repeat_every_year">год</string>
+    <string name="entry_repeat_custom">Другое</string>
+    <string name="entry_not_implemented_yet">пока не реализовано</string>
+    <string name="entry_description_label">Дополнительное описание</string>
+    <string name="entry_description_placeholder">Описание</string>
+    <string name="entry_add_image">Добавить изображение</string>
+    <string name="entry_change_image">Изменить изображение</string>
+    <string name="entry_image_refresh_icon">↻</string>
+    <string name="repeat_at">Повторяется</string>
+
+    <string name="repeat_every_days">Каждые %1$d дн.</string>
+    <string name="repeat_every_weeks">Каждые %1$d нед.</string>
+    <string name="repeat_every_months_on_day">Каждые %1$d мес. в день %2$d</string>
+    <string name="repeat_every_years">Каждые %1$d г.</string>
+    <string name="never">Никогда</string>
+    <string name="after">После</string>
+    <string name="times">Раз</string>
+    <string name="ends_at">Заканчивается</string>
+    <string name="repeat_entry">Повтор</string>
+    <string name="new_entry">Новое событие</string>
+
+</resources>

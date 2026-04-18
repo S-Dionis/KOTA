@@ -1,0 +1,79 @@
+<resources>
+    <string name="calendar_action_now">Now</string>
+    <string name="calendar_dropdown_arrow">▼</string>
+    <string name="calendar_clickable_icon">></string>
+    <string name="calendar_full_date">%1$d %2$s %3$d</string>
+
+    <string name="day_screen_tasks_title">Tasks for the day</string>
+    <string name="day_task_completed">Completed</string>
+    <string name="day_task_scheduled">Scheduled</string>
+    <string name="day_screen_empty_tasks">No tasks for this day</string>
+    <string name="day_screen_stub_title">Day screen</string>
+
+    <string name="day_stub_task_check_calendar">Review tasks in the calendar</string>
+    <string name="day_stub_task_project_call">Project sync call</string>
+    <string name="day_stub_task_prepare_list">Prepare a task list</string>
+    <string name="day_stub_task_reply_messages">Reply to messages</string>
+    <string name="day_stub_task_buy_groceries">Buy groceries</string>
+    <string name="day_stub_task_evening_walk">Evening walk</string>
+
+    <string name="day_preview_task_morning_review">Morning review of the day plan</string>
+    <string name="day_preview_task_project_status">Project status meeting</string>
+    <string name="day_preview_task_buy_and_pickup">Buy groceries and pick up the order</string>
+    <string name="day_preview_task_evening_walk">Evening walk</string>
+
+    <string name="day_time_08_30">08:30</string>
+    <string name="day_time_09_00">09:00</string>
+    <string name="day_time_10_00">10:00</string>
+    <string name="day_time_11_00">11:00</string>
+    <string name="day_time_13_30">13:30</string>
+    <string name="day_time_18_00">18:00</string>
+    <string name="day_time_18_30">18:30</string>
+    <string name="day_time_20_00">20:00</string>
+    <string name="day_time_21_00">21:00</string>
+
+    <string name="entry_name_label">Event name</string>
+    <string name="entry_filter_event">Event</string>
+    <string name="entry_filter_task">Task</string>
+    <string name="entry_start_datetime_label">Start date and time</string>
+    <string name="entry_end_datetime_label">End date and time</string>
+    <string name="entry_save_button">Save event</string>
+    <string name="entry_calendar_icon">📅</string>
+    <string name="entry_dialog_confirm">Save</string>
+    <string name="entry_dialog_cancel">Cancel</string>
+    <string name="entry_dialog_close">Close</string>
+    <string name="entry_select_time_title">Select time</string>
+    <string name="entry_remind_label">Notify</string>
+    <string name="entry_remind_dialog_title">Notify</string>
+    <string name="entry_remind_none">Do not notify</string>
+    <string name="entry_remind_before_event">Before the event</string>
+    <string name="entry_remind_one_hour">One hour before</string>
+    <string name="entry_remind_one_day">One day before</string>
+    <string name="entry_remind_custom">Custom</string>
+    <string name="entry_repeat_label">Repeat</string>
+    <string name="entry_repeat_dialog_title">Repeat</string>
+    <string name="entry_repeat_never">Does not repeat</string>
+    <string name="entry_repeat_every_day">day</string>
+    <string name="entry_repeat_every_week">week</string>
+    <string name="entry_repeat_every_month">month</string>
+    <string name="entry_repeat_every_year">year</string>
+    <string name="entry_repeat_custom">Custom</string>
+    <string name="entry_not_implemented_yet">Not implemented yet</string>
+    <string name="entry_description_label">Additional description</string>
+    <string name="entry_description_placeholder">Details</string>
+    <string name="entry_add_image">Attach image</string>
+    <string name="entry_change_image">Change image</string>
+    <string name="entry_image_refresh_icon">↻</string>
+    <string name="repeat_at">repeat once at</string>
+
+    <string name="repeat_every_days">Every %1$d days</string>
+    <string name="repeat_every_weeks">Every %1$d weeks</string>
+    <string name="repeat_every_months_on_day">Every %1$d months on day %2$d</string>
+    <string name="repeat_every_years">Every %1$d years</string>
+    <string name="never">Never</string>
+    <string name="after">After</string>
+    <string name="times">After Times</string>
+    <string name="ends_at">Ends at</string>
+    <string name="repeat_entry">repeat</string>
+    <string name="new_entry">new entry</string>
+</resources>
