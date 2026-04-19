@@ -7,6 +7,7 @@ plugins {
     alias(libs.plugins.kotlin.kapt)
     alias(libs.plugins.hilt.android)
     alias(libs.plugins.compose.compiler)
+    id("kota.google-play-publishing")
 }
 
 android {
@@ -46,6 +47,10 @@ kotlin {
 
 kapt {
     correctErrorTypes = true
+}
+
+googlePlayPublishing {
+    artifactType.set(kota.buildlogic.PublishArtifactType.BUNDLE)
 }
 
 dependencies {
